@@ -45,3 +45,7 @@ combined into one commit.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automatically merging can reduce mistakes that can be added during
+manual merging.  However, sometimes Git will not know what to do
+with conflicts that would be easily resolvable by hand.
